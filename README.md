@@ -5,7 +5,7 @@
 
 
 # What will you find on my GitHub
-You will find things mostly focused on [Spigot](https://www.spigotmc.org/) development, such as my [Menu API](https://github.com/NoSequel/Katakuna)
+You will find things mostly focused on [Spigot](https://www.spigotmc.org/) development, such as my [Menu API](https://github.com/NoSequel/Katakuna).
 I'm currently still learning other programming languages, so currently there will only be Java projects on my github. 
 
 # Stats
