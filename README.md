@@ -1,5 +1,4 @@
 ### Hi there 👋
-#
 # I am NoSQL, formerly known as NV6.
 I'm a Java and Python developer, and I'm learning [D](https://dlang.org/) and C/C++
 
