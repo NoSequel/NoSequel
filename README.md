@@ -3,3 +3,7 @@ I'm a Java and Python developer, and I'm learning [D](https://dlang.org/) and C/
 
 # Stats
 [![NoSQL's stats](https://github-readme-stats.vercel.app/api?username=nosequel)](https://github.com/anuraghazra/github-readme-stats)
+
+# What will you find on my GitHub
+You will find things mostly focused on [Spigot](https://www.spigotmc.org/) development, such as my [Menu API](https://github.com/NoSequel/Katakuna)
+I'm currently still learning other programming languages, so currently there will only be Java projects on my github. 
