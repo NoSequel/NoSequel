@@ -1,8 +1,6 @@
 # I am NoSQL, formerly known as NV6.
-I'm a Java and Python developer, and I'm learning [D](https://dlang.org/) and C/C++
-
-* :star: I'm 15 years old
-* :star: I live in the Netherlands
+* :white_check_mark: I code in Java and Python
+* :white_check_mark: I'm learning [D](https://dlang.org/) and C/C++
 
 # What will you find on my GitHub
 You will find things mostly focused on [Spigot](https://www.spigotmc.org/) development, such as my [Menu API](https://github.com/NoSequel/Katakuna)
