@@ -1,4 +1,4 @@
-# I am NoSQL, formerly known as NV6.
+# I am NoSQL, a Java Developer.
 * :white_check_mark: I code in Java and Python
 * :white_check_mark: I'm learning [D](https://dlang.org/) and C/C++
 * :star: I have a lovely girlfriend, [wclfie](https://twitter.com/wclfiee)
