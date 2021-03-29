@@ -13,7 +13,7 @@ I'm currently still learning other programming languages, so currently there wil
 - Discord: NV6#3289
 
 # About Me
-- I have a girlfriend ([wclfie](https://twitter.com/wclfiee))
+* :heart: I have a girlfriend ([wclfie](https://twitter.com/wclfiee))
 
 # Stats
 [![NoSQL's stats](https://github-readme-stats.vercel.app/api?username=nosequel)](https://github.com/anuraghazra/github-readme-stats)
