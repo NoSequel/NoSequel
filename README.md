@@ -10,8 +10,9 @@ I have worked for several minecraft servers, including MineLounge, PvPBar, HCNat
 I'm experienced in making a lot of spigot plugins, a few examples of my spigot plugins are:
 * [AntiCheat](https://github.com/NoSequel/AntiCheat)
 * [KitPvP](https://github.com/NoSequel/KitPvP)
+* [Portage (general network core)](https://github.com/NoSequel/Portage)
 * [HCTeams (custom HCF core)](https://github.com/NoSequel/HCTeams)
-* [BlockOperationModifier](https://github.com/NoSequel/BlockOperationModifier)
+* [BlockOperationModifier](https://github.com/NoSequel/Block-Operation-Modifier)
 * [Practice](https://github.com/NoSequel/Practice)
 
 ## Libraries
