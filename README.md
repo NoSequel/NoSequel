@@ -6,8 +6,22 @@
 I have worked for several minecraft servers, including MineLounge, PvPBar, HCNations, and more. 
 
 # What will you find on my GitHub
-You will find things mostly focused on [Spigot](https://www.spigotmc.org/) development, such as my [Menu API](https://github.com/NoSequel/Katakuna).
-I'm currently still learning other programming languages, so currently there will only be Java projects on my github. 
+## Spigot Plugins
+I'm experienced in making a lot of spigot plugins, a few examples of my spigot plugins are:
+* [AntiCheat](https://github.com/NoSequel/AntiCheat)
+* [KitPvP](https://github.com/NoSequel/KitPvP)
+* [HCTeams (custom HCF core)](https://github.com/NoSequel/HCTeams)
+* [BlockOperationModifier](https://github.com/NoSequel/BlockOperationModifier)
+* [Practice](https://github.com/NoSequel/Practice)
+
+## Libraries
+I'm working on several plugins, including spigot libraries, for example:
+* [TabAPI](https://github.com/NoSequel/TabAPI)
+* [ScoreboardAPI](https://github.com/NoSequel/ScoreboardAPI)
+
+## System Tools
+I'm working on several system tools, mainly to learn more about other languages besides Java, for example:
+* [efetch](https://github.com/efetch)
 
 # Contact Information
 - Discord: NV6#3289
