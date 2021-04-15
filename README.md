@@ -22,7 +22,7 @@ I'm working on several plugins, including spigot libraries, for example:
 
 ## System Tools
 I'm working on several system tools, mainly to learn more about other languages besides Java, for example:
-* [efetch](https://github.com/efetch)
+* [efetch](https://github.com/NoSequel/efetch)
 
 # Contact Information
 - Discord: NV6#3289
