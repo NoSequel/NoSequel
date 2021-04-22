@@ -3,7 +3,10 @@
 * :white_check_mark: I'm learning [D](https://dlang.org/) and C/C++
 
 # Previous Experience
-I have worked for several minecraft servers, including MineLounge, PvPBar, HCNations, and more, and I'm currently working for AkumaMC (akumamc.net).
+I have worked for several minecraft servers, including MineLounge, PvPBar, HCNations, and more.
+I'm currently working for the following servers:
+* [ChaseCraft](chasecraft.gg)
+* [AkumaMC](discord.akumamc.net)
 
 # What will you find on my GitHub
 ## Spigot Plugins
