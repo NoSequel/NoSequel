@@ -2,7 +2,7 @@
 * :white_check_mark: I code in Java, Rust and Python
 
 # My resume
-[CV (1).docx](https://github.com/NoSequel/NoSequel/files/6949717/CV.1.docx)
+[Download](https://github.com/NoSequel/NoSequel/files/6949717/CV.1.docx)
 
 # About Me
 * :heart: I have a girlfriend ([wclfie](https://twitter.com/wclfiee))
