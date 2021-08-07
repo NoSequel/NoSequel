@@ -1,33 +1,8 @@
 # I am NoSQL, a Java Developer, previously known as NV6.
-* :white_check_mark: I code in Java and Python
-* :white_check_mark: I'm learning [D](https://dlang.org/) and C/C++
+* :white_check_mark: I code in Java, Rust and Python
 
-# Previous Experience
-I have worked for several minecraft servers, including MineLounge, PvPBar, HCNations, AkumaMC, and more.
-I'm currently working for the following servers:
-* [ChaseCraft](chasecraft.gg)
-
-# What will you find on my GitHub
-## Spigot Plugins
-I'm experienced in making a lot of spigot plugins, a few examples of my spigot plugins are:
-* [AntiCheat](https://github.com/NoSequel/AntiCheat)
-* [KitPvP](https://github.com/NoSequel/KitPvP)
-* [Portage (general network core)](https://github.com/NoSequel/Portage)
-* [HCTeams (custom HCF core)](https://github.com/NoSequel/HCTeams)
-* [BlockOperationModifier](https://github.com/NoSequel/Block-Operation-Modifier)
-* [Practice](https://github.com/NoSequel/Practice)
-
-## Libraries
-I'm working on several plugins, including spigot libraries, for example:
-* [TabAPI](https://github.com/NoSequel/TabAPI)
-* [ScoreboardAPI](https://github.com/NoSequel/ScoreboardAPI)
-
-## System Tools
-I'm working on several system tools, mainly to learn more about other languages besides Java, for example:
-* [efetch](https://github.com/NoSequel/efetch)
-
-# Contact Information
-- Discord: NV6#3289
+# My resume
+[CV (1).docx](https://github.com/NoSequel/NoSequel/files/6949717/CV.1.docx)
 
 # About Me
 * :heart: I have a girlfriend ([wclfie](https://twitter.com/wclfiee))
