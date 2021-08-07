@@ -1,11 +1,17 @@
-# I am NoSQL, a Java Developer, previously known as NV6.
-* :white_check_mark: I code in Java, Rust and Python
+# NV6
 
-# My resume
-[Download](https://github.com/NoSequel/NoSequel/files/6949717/CV.1.docx)
+## Previous Experiences
+### Chasecraft MCS LLC
+This is my most recent development experience. Chasecraft is a multi-gamemode network offering gamemodes such as Skyblock, Pixelmon and more.
 
-# About Me
-* :heart: I have a girlfriend ([wclfie](https://twitter.com/wclfiee))
+### AkumaMC
+I was developer here for a little while back in early 2021, the network is a prison-based network.
 
-# Stats
-[![NoSQL's stats](https://github-readme-stats.vercel.app/api?username=nosequel)](https://github.com/anuraghazra/github-readme-stats)
+## Projects
+* [Tab API](https://github.com/TabAPI)
+* [rfetch](https://github.com/rfetch)
+* [Scoreboard API](https://github.com/ScoreboardAPI)
+* [Queue Revamp](https://github.com/queue-recode)
+
+## Stats
+[![NV6's stats](https://github-readme-stats.vercel.app/api?username=nosequel)](https://github.com/anuraghazra/github-readme-stats)
